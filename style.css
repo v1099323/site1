@@ -89,6 +89,8 @@ body {
     margin-top: 32px;
     height: 172px;
     background: url('img/bgheart.png');
+    background-size: cover;
+    background-position: center;
     border-radius: 16px;
 
 }
